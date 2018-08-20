@@ -1,0 +1,25 @@
+.table {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 10px 10px 10px 10px;
+}
+
+.encabezado {
+  background: #008ED6;
+  color: white;
+  
+}
+
+.contenido {
+  background: #75B2DD;
+  text-align: center;
+}
+
+.contenido:hover {
+  background: #C9E8DD;
+}
+
+.span {
+  text-align: center;
+}
