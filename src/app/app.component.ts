@@ -12,7 +12,7 @@ export class AppComponent {
   title = "Fabian Guzmán y Alejandro Garcia";
   gato: Gato;
   perro: Perro;
-  img = require("./../prueba.png");
+  img:string = "assets/prueba.png";
   derecha: String;
   izquierda: String;
   constructor() {
